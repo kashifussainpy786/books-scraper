@@ -1,4 +1,4 @@
-# Books Scraper
+# books Scraper
 
 A Python web scraper that extracts all 1000 book titles from [books.toscrape.com](https://books.toscrape.com) across 50 pages and exports them to an Excel file.
 
